@@ -1,7 +1,10 @@
 # NguyenNgocTramAnh_T6_Ca2
 # 💫 About Me:
 - 👋 Xin chào! Tôi tên là Nguyễn Ngọc Trâm Anh<br> 🌱 Hiện tại là sinh viên năm 3 ngành CNTT tại HUFLIT<br>
+- Nhóm của chúng mình đang thực hiện môn CNPMNC với đề tài QLCH cafe Terrace
 
+
+![image](https://github.com/user-attachments/assets/80dc7d67-5bd3-4d38-b09d-ddaf36023cbe)
 
 
 # 💻 Tech Stack:
