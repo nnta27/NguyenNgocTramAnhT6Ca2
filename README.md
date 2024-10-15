@@ -1,5 +1,6 @@
+# NguyenNgocTramAnh_T6_Ca2
 # 💫 About Me:
-- 👋 Xin chào! Tôi tên là Nguyễn Ngọc Trâm Anh<br> 🌱 Hiện tại là sinh viên năm 3<br>
+- 👋 Xin chào! Tôi tên là Nguyễn Ngọc Trâm Anh<br> 🌱 Hiện tại là sinh viên năm 3 ngành CNTT tại HUFLIT<br>
 
 
 
