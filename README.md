@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Xin chào! Tôi tên là Nguyễn Ngọc Trâm Anh<br>- 🌱 Hiện tại là sinh viên năm 3<br>
+- 👋 Xin chào! Tôi tên là Nguyễn Ngọc Trâm Anh<br> 🌱 Hiện tại là sinh viên năm 3<br>
 
 
 # 💻 Tech Stack:
@@ -9,7 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nnta27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnta27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+![butterbear](https://github.com/user-attachments/assets/dc041ff2-05a4-42c9-b32e-f0de70c0e2bb)
+
 [![](https://visitcount.itsvg.in/api?id=nnta27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
